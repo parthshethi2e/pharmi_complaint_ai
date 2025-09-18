@@ -1,9 +1,12 @@
+import base64
 import streamlit as st
 from gemini_classifier import classify_complaint
 import pandas as pd
 import re
 from datetime import datetime
 import gspread
+from google.oauth2.service_account import Credentials
+import os, json, base64
 from google.oauth2.service_account import Credentials
 
 # CONFIG
@@ -12,7 +15,17 @@ SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive"
 ]
-CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
+
+creds_b64 = os.environ.get("GOOGLE_CREDS")
+if not creds_b64:
+    raise RuntimeError("❌ GOOGLE_CREDS environment variable is missing!")
+
+creds_json = base64.b64decode(creds_b64).decode("utf-8")
+creds_dict = json.loads(creds_json)
+
+
+# CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
+CREDS = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 gc = gspread.authorize(CREDS)
 worksheet = gc.open(SHEET_NAME).sheet1
 
