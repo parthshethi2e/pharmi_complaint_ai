@@ -1,0 +1,1001 @@
+Complaint_ID,Complaint_Text,Product,Category_Label
+1,Developed rash and itching,Drug E,Adverse Event
+2,Blister pack was torn before opening,Drug D,Packaging Defect
+3,Dosage label incorrect,Drug A,Wrong Dosage
+4,Liquid was discolored,Drug B,Contamination Suspected
+5,Treatment ineffective,Drug F,Lack of Efficacy
+6,Dosage strength was different than prescribed,Drug B,Wrong Dosage
+7,Got duplicate shipment,Drug A,Logistics Error
+8,Box was empty upon delivery,Drug B,Logistics Error
+9,Expired medicine delivered,Drug A,Expired Product
+10,Liquid was discolored,Drug E,Contamination Suspected
+11,Box was empty upon delivery,Drug E,Logistics Error
+12,Liquid was discolored,Drug C,Contamination Suspected
+13,Bottle seal appeared tampered,Drug E,Tampered Seal
+14,Got duplicate shipment,Drug F,Logistics Error
+15,Expired medicine delivered,Drug A,Expired Product
+16,Box was empty upon delivery,Drug D,Logistics Error
+17,No improvement after 5 days of use,Drug D,Lack of Efficacy
+18,Security seal missing,Drug F,Tampered Seal
+19,Security seal missing,Drug F,Tampered Seal
+20,Developed rash and itching,Drug C,Adverse Event
+21,Seal was broken before opening,Drug A,Tampered Seal
+22,Overdose packaging,Drug E,Wrong Dosage
+23,Received product past expiry date,Drug B,Expired Product
+24,Symptoms persisted despite taking medicine,Drug C,Lack of Efficacy
+25,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+26,Tablet had black spots,Drug D,Contamination Suspected
+27,Received product past expiry date,Drug C,Expired Product
+28,Developed rash and itching,Drug C,Adverse Event
+29,Felt no relief even after full course,Drug C,Lack of Efficacy
+30,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+31,Expiry date was scratched off,Drug B,Expired Product
+32,Box was empty upon delivery,Drug D,Logistics Error
+33,Felt no relief even after full course,Drug F,Lack of Efficacy
+34,Found foreign particle in syrup,Drug D,Contamination Suspected
+35,Tablet had black spots,Drug B,Contamination Suspected
+36,Bottle seal appeared tampered,Drug F,Tampered Seal
+37,Vomited within 1 hour of dosage,Drug F,Adverse Event
+38,Label was unreadable,Drug A,Packaging Defect
+39,Packaging was damaged on arrival,Drug C,Packaging Defect
+40,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+41,Shipment was delayed by 5 days,Drug A,Logistics Error
+42,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+43,Seal was broken before opening,Drug C,Tampered Seal
+44,Expiry date was scratched off,Drug B,Expired Product
+45,Bottle seal appeared tampered,Drug B,Tampered Seal
+46,Treatment ineffective,Drug B,Lack of Efficacy
+47,Pill smelled unusual,Drug C,Contamination Suspected
+48,Felt no relief even after full course,Drug F,Lack of Efficacy
+49,Label was unreadable,Drug B,Packaging Defect
+50,Expired medicine delivered,Drug D,Expired Product
+51,Dosage strength was different than prescribed,Drug D,Wrong Dosage
+52,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+53,Got duplicate shipment,Drug B,Logistics Error
+54,Blister pack was torn before opening,Drug A,Packaging Defect
+55,Felt no relief even after full course,Drug C,Lack of Efficacy
+56,Security seal missing,Drug E,Tampered Seal
+57,Box had a resealed flap,Drug B,Tampered Seal
+58,Experienced severe headache after taking the drug,Drug A,Adverse Event
+59,Received 100mg instead of 50mg,Drug E,Wrong Dosage
+60,Tablet had black spots,Drug B,Contamination Suspected
+61,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+62,Bottle seal appeared tampered,Drug B,Tampered Seal
+63,Experienced severe headache after taking the drug,Drug A,Adverse Event
+64,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+65,Box had a resealed flap,Drug F,Tampered Seal
+66,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+67,Symptoms persisted despite taking medicine,Drug E,Lack of Efficacy
+68,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+69,Vomited within 1 hour of dosage,Drug E,Adverse Event
+70,Bottle seal appeared tampered,Drug C,Tampered Seal
+71,Received product past expiry date,Drug C,Expired Product
+72,Seal was broken before opening,Drug A,Tampered Seal
+73,Liquid was discolored,Drug B,Contamination Suspected
+74,Seal was broken before opening,Drug B,Tampered Seal
+75,Seal was broken before opening,Drug D,Tampered Seal
+76,Dosage label incorrect,Drug B,Wrong Dosage
+77,Dosage strength was different than prescribed,Drug D,Wrong Dosage
+78,Found foreign particle in syrup,Drug B,Contamination Suspected
+79,Shipment was delayed by 5 days,Drug E,Logistics Error
+80,Bottle seal appeared tampered,Drug F,Tampered Seal
+81,Pill smelled unusual,Drug A,Contamination Suspected
+82,Tablet missing from strip,Drug A,Packaging Defect
+83,Received wrong product in box,Drug A,Logistics Error
+84,No improvement after 5 days of use,Drug D,Lack of Efficacy
+85,Pill smelled unusual,Drug B,Contamination Suspected
+86,No improvement after 5 days of use,Drug A,Lack of Efficacy
+87,Developed rash and itching,Drug A,Adverse Event
+88,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+89,Pill smelled unusual,Drug B,Contamination Suspected
+90,Label was unreadable,Drug D,Packaging Defect
+91,Security seal missing,Drug B,Tampered Seal
+92,Overdose packaging,Drug D,Wrong Dosage
+93,Security seal missing,Drug C,Tampered Seal
+94,Felt no relief even after full course,Drug C,Lack of Efficacy
+95,Box had a resealed flap,Drug A,Tampered Seal
+96,Label was unreadable,Drug B,Packaging Defect
+97,Dosage strength was different than prescribed,Drug C,Wrong Dosage
+98,Tablet missing from strip,Drug F,Packaging Defect
+99,Felt nauseous and dizzy after second dose,Drug D,Adverse Event
+100,Felt nauseous and dizzy after second dose,Drug F,Adverse Event
+101,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+102,Tablet had black spots,Drug E,Contamination Suspected
+103,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+104,Felt no relief even after full course,Drug B,Lack of Efficacy
+105,Overdose packaging,Drug B,Wrong Dosage
+106,Product expired last month,Drug A,Expired Product
+107,Security seal missing,Drug A,Tampered Seal
+108,Blister pack was torn before opening,Drug C,Packaging Defect
+109,Received wrong product in box,Drug D,Logistics Error
+110,Expired medicine delivered,Drug F,Expired Product
+111,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+112,Developed rash and itching,Drug E,Adverse Event
+113,Dosage strength was different than prescribed,Drug B,Wrong Dosage
+114,Pill smelled unusual,Drug E,Contamination Suspected
+115,Treatment ineffective,Drug E,Lack of Efficacy
+116,Felt no relief even after full course,Drug A,Lack of Efficacy
+117,Tablet had black spots,Drug A,Contamination Suspected
+118,Pill smelled unusual,Drug A,Contamination Suspected
+119,Dosage label incorrect,Drug A,Wrong Dosage
+120,Overdose packaging,Drug B,Wrong Dosage
+121,Blister pack was torn before opening,Drug D,Packaging Defect
+122,Felt no relief even after full course,Drug B,Lack of Efficacy
+123,Got duplicate shipment,Drug F,Logistics Error
+124,Bottle seal appeared tampered,Drug F,Tampered Seal
+125,Received product past expiry date,Drug F,Expired Product
+126,Box was empty upon delivery,Drug B,Logistics Error
+127,Pill smelled unusual,Drug C,Contamination Suspected
+128,Got duplicate shipment,Drug D,Logistics Error
+129,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+130,Overdose packaging,Drug D,Wrong Dosage
+131,Got duplicate shipment,Drug D,Logistics Error
+132,Felt no relief even after full course,Drug E,Lack of Efficacy
+133,Developed rash and itching,Drug A,Adverse Event
+134,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+135,Shipment was delayed by 5 days,Drug E,Logistics Error
+136,Expiry date was scratched off,Drug E,Expired Product
+137,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+138,Liquid was discolored,Drug F,Contamination Suspected
+139,Vomited within 1 hour of dosage,Drug F,Adverse Event
+140,Packaging was damaged on arrival,Drug A,Packaging Defect
+141,Tablet missing from strip,Drug A,Packaging Defect
+142,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+143,Liquid was discolored,Drug B,Contamination Suspected
+144,Box was empty upon delivery,Drug E,Logistics Error
+145,Felt nauseous and dizzy after second dose,Drug E,Adverse Event
+146,Pill smelled unusual,Drug F,Contamination Suspected
+147,Label was unreadable,Drug A,Packaging Defect
+148,Got duplicate shipment,Drug B,Logistics Error
+149,Label was unreadable,Drug C,Packaging Defect
+150,Pill smelled unusual,Drug B,Contamination Suspected
+151,Pill smelled unusual,Drug D,Contamination Suspected
+152,Bottle seal appeared tampered,Drug E,Tampered Seal
+153,Vomited within 1 hour of dosage,Drug E,Adverse Event
+154,Received product past expiry date,Drug B,Expired Product
+155,Label was unreadable,Drug E,Packaging Defect
+156,Dosage strength was different than prescribed,Drug C,Wrong Dosage
+157,Product expired last month,Drug E,Expired Product
+158,Expiry date was scratched off,Drug A,Expired Product
+159,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+160,Product expired last month,Drug E,Expired Product
+161,Shipment was delayed by 5 days,Drug F,Logistics Error
+162,Developed rash and itching,Drug E,Adverse Event
+163,Dosage label incorrect,Drug F,Wrong Dosage
+164,Liquid was discolored,Drug B,Contamination Suspected
+165,Product expired last month,Drug E,Expired Product
+166,Security seal missing,Drug C,Tampered Seal
+167,Tablet missing from strip,Drug F,Packaging Defect
+168,Label was unreadable,Drug E,Packaging Defect
+169,Expiry date was scratched off,Drug C,Expired Product
+170,Experienced severe headache after taking the drug,Drug E,Adverse Event
+171,Tablet missing from strip,Drug F,Packaging Defect
+172,Experienced severe headache after taking the drug,Drug F,Adverse Event
+173,No improvement after 5 days of use,Drug C,Lack of Efficacy
+174,Label was unreadable,Drug E,Packaging Defect
+175,Received product past expiry date,Drug A,Expired Product
+176,Expiry date was scratched off,Drug A,Expired Product
+177,Liquid was discolored,Drug A,Contamination Suspected
+178,Received product past expiry date,Drug D,Expired Product
+179,Packaging was damaged on arrival,Drug E,Packaging Defect
+180,Tablet missing from strip,Drug A,Packaging Defect
+181,Security seal missing,Drug B,Tampered Seal
+182,Dosage label incorrect,Drug A,Wrong Dosage
+183,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+184,Packaging was damaged on arrival,Drug D,Packaging Defect
+185,Tablet had black spots,Drug C,Contamination Suspected
+186,Expired medicine delivered,Drug A,Expired Product
+187,Seal was broken before opening,Drug B,Tampered Seal
+188,Vomited within 1 hour of dosage,Drug C,Adverse Event
+189,Label was unreadable,Drug B,Packaging Defect
+190,Box had a resealed flap,Drug F,Tampered Seal
+191,Bottle seal appeared tampered,Drug C,Tampered Seal
+192,Received product past expiry date,Drug D,Expired Product
+193,Developed rash and itching,Drug D,Adverse Event
+194,Received wrong product in box,Drug A,Logistics Error
+195,Vomited within 1 hour of dosage,Drug D,Adverse Event
+196,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+197,Label was unreadable,Drug D,Packaging Defect
+198,Shipment was delayed by 5 days,Drug E,Logistics Error
+199,Got duplicate shipment,Drug B,Logistics Error
+200,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+201,Overdose packaging,Drug A,Wrong Dosage
+202,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+203,Got duplicate shipment,Drug E,Logistics Error
+204,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+205,Experienced severe headache after taking the drug,Drug B,Adverse Event
+206,Box was empty upon delivery,Drug A,Logistics Error
+207,Vomited within 1 hour of dosage,Drug F,Adverse Event
+208,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+209,Liquid was discolored,Drug A,Contamination Suspected
+210,Liquid was discolored,Drug B,Contamination Suspected
+211,Shipment was delayed by 5 days,Drug E,Logistics Error
+212,Symptoms persisted despite taking medicine,Drug C,Lack of Efficacy
+213,Overdose packaging,Drug B,Wrong Dosage
+214,Box had a resealed flap,Drug C,Tampered Seal
+215,Dosage label incorrect,Drug D,Wrong Dosage
+216,Shipment was delayed by 5 days,Drug B,Logistics Error
+217,Experienced severe headache after taking the drug,Drug B,Adverse Event
+218,Liquid was discolored,Drug F,Contamination Suspected
+219,Tablet missing from strip,Drug D,Packaging Defect
+220,Found foreign particle in syrup,Drug E,Contamination Suspected
+221,Treatment ineffective,Drug B,Lack of Efficacy
+222,Experienced severe headache after taking the drug,Drug E,Adverse Event
+223,Tablet had black spots,Drug D,Contamination Suspected
+224,Shipment was delayed by 5 days,Drug D,Logistics Error
+225,Found foreign particle in syrup,Drug D,Contamination Suspected
+226,Received wrong product in box,Drug A,Logistics Error
+227,Liquid was discolored,Drug D,Contamination Suspected
+228,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+229,Security seal missing,Drug D,Tampered Seal
+230,Label was unreadable,Drug C,Packaging Defect
+231,Received wrong product in box,Drug C,Logistics Error
+232,Expired medicine delivered,Drug A,Expired Product
+233,Security seal missing,Drug A,Tampered Seal
+234,Treatment ineffective,Drug E,Lack of Efficacy
+235,Expiry date was scratched off,Drug B,Expired Product
+236,Tablet missing from strip,Drug B,Packaging Defect
+237,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+238,Vomited within 1 hour of dosage,Drug E,Adverse Event
+239,Developed rash and itching,Drug B,Adverse Event
+240,Blister pack was torn before opening,Drug C,Packaging Defect
+241,Expired medicine delivered,Drug A,Expired Product
+242,Received product past expiry date,Drug C,Expired Product
+243,Felt no relief even after full course,Drug D,Lack of Efficacy
+244,Felt no relief even after full course,Drug B,Lack of Efficacy
+245,Blister pack was torn before opening,Drug C,Packaging Defect
+246,Felt nauseous and dizzy after second dose,Drug D,Adverse Event
+247,Shipment was delayed by 5 days,Drug E,Logistics Error
+248,Experienced severe headache after taking the drug,Drug C,Adverse Event
+249,Treatment ineffective,Drug A,Lack of Efficacy
+250,Felt no relief even after full course,Drug E,Lack of Efficacy
+251,Expired medicine delivered,Drug A,Expired Product
+252,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+253,Found foreign particle in syrup,Drug C,Contamination Suspected
+254,Packaging was damaged on arrival,Drug E,Packaging Defect
+255,Treatment ineffective,Drug C,Lack of Efficacy
+256,Experienced severe headache after taking the drug,Drug C,Adverse Event
+257,Treatment ineffective,Drug F,Lack of Efficacy
+258,Got duplicate shipment,Drug D,Logistics Error
+259,Vomited within 1 hour of dosage,Drug D,Adverse Event
+260,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+261,Experienced severe headache after taking the drug,Drug F,Adverse Event
+262,Got duplicate shipment,Drug C,Logistics Error
+263,Label was unreadable,Drug B,Packaging Defect
+264,Found foreign particle in syrup,Drug F,Contamination Suspected
+265,Vomited within 1 hour of dosage,Drug A,Adverse Event
+266,Tablet missing from strip,Drug A,Packaging Defect
+267,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+268,Pill smelled unusual,Drug C,Contamination Suspected
+269,Label was unreadable,Drug E,Packaging Defect
+270,Bottle seal appeared tampered,Drug B,Tampered Seal
+271,Experienced severe headache after taking the drug,Drug D,Adverse Event
+272,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+273,Product expired last month,Drug C,Expired Product
+274,Expired medicine delivered,Drug C,Expired Product
+275,Received wrong product in box,Drug B,Logistics Error
+276,No improvement after 5 days of use,Drug E,Lack of Efficacy
+277,Treatment ineffective,Drug C,Lack of Efficacy
+278,Experienced severe headache after taking the drug,Drug F,Adverse Event
+279,Felt no relief even after full course,Drug C,Lack of Efficacy
+280,Dosage strength was different than prescribed,Drug F,Wrong Dosage
+281,Bottle seal appeared tampered,Drug A,Tampered Seal
+282,Felt no relief even after full course,Drug D,Lack of Efficacy
+283,Felt no relief even after full course,Drug A,Lack of Efficacy
+284,Tablet had black spots,Drug C,Contamination Suspected
+285,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+286,Dosage label incorrect,Drug E,Wrong Dosage
+287,Box had a resealed flap,Drug D,Tampered Seal
+288,Shipment was delayed by 5 days,Drug F,Logistics Error
+289,Experienced severe headache after taking the drug,Drug E,Adverse Event
+290,Packaging was damaged on arrival,Drug A,Packaging Defect
+291,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+292,Experienced severe headache after taking the drug,Drug A,Adverse Event
+293,Received wrong product in box,Drug E,Logistics Error
+294,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+295,Label was unreadable,Drug C,Packaging Defect
+296,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+297,Found foreign particle in syrup,Drug D,Contamination Suspected
+298,Box had a resealed flap,Drug A,Tampered Seal
+299,Got duplicate shipment,Drug E,Logistics Error
+300,Expiry date was scratched off,Drug A,Expired Product
+301,Expiry date was scratched off,Drug A,Expired Product
+302,Found foreign particle in syrup,Drug A,Contamination Suspected
+303,Received 100mg instead of 50mg,Drug E,Wrong Dosage
+304,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+305,Security seal missing,Drug A,Tampered Seal
+306,Overdose packaging,Drug D,Wrong Dosage
+307,Received product past expiry date,Drug E,Expired Product
+308,Shipment was delayed by 5 days,Drug B,Logistics Error
+309,Pill smelled unusual,Drug A,Contamination Suspected
+310,Box had a resealed flap,Drug E,Tampered Seal
+311,Liquid was discolored,Drug E,Contamination Suspected
+312,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+313,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+314,Packaging was damaged on arrival,Drug D,Packaging Defect
+315,Seal was broken before opening,Drug B,Tampered Seal
+316,Developed rash and itching,Drug F,Adverse Event
+317,Received product past expiry date,Drug A,Expired Product
+318,Packaging was damaged on arrival,Drug F,Packaging Defect
+319,Liquid was discolored,Drug A,Contamination Suspected
+320,Box had a resealed flap,Drug F,Tampered Seal
+321,No improvement after 5 days of use,Drug B,Lack of Efficacy
+322,Bottle seal appeared tampered,Drug E,Tampered Seal
+323,Shipment was delayed by 5 days,Drug D,Logistics Error
+324,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+325,Shipment was delayed by 5 days,Drug C,Logistics Error
+326,Developed rash and itching,Drug D,Adverse Event
+327,No improvement after 5 days of use,Drug F,Lack of Efficacy
+328,Liquid was discolored,Drug F,Contamination Suspected
+329,Packaging was damaged on arrival,Drug B,Packaging Defect
+330,Vomited within 1 hour of dosage,Drug C,Adverse Event
+331,No improvement after 5 days of use,Drug D,Lack of Efficacy
+332,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+333,Received 100mg instead of 50mg,Drug E,Wrong Dosage
+334,Security seal missing,Drug A,Tampered Seal
+335,Pill smelled unusual,Drug E,Contamination Suspected
+336,Label was unreadable,Drug C,Packaging Defect
+337,Box had a resealed flap,Drug E,Tampered Seal
+338,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+339,Received wrong product in box,Drug E,Logistics Error
+340,Felt nauseous and dizzy after second dose,Drug A,Adverse Event
+341,Pill smelled unusual,Drug C,Contamination Suspected
+342,Overdose packaging,Drug C,Wrong Dosage
+343,Dosage label incorrect,Drug E,Wrong Dosage
+344,Treatment ineffective,Drug C,Lack of Efficacy
+345,Blister pack was torn before opening,Drug F,Packaging Defect
+346,Box was empty upon delivery,Drug D,Logistics Error
+347,Experienced severe headache after taking the drug,Drug C,Adverse Event
+348,Found foreign particle in syrup,Drug A,Contamination Suspected
+349,Seal was broken before opening,Drug C,Tampered Seal
+350,Box had a resealed flap,Drug D,Tampered Seal
+351,Received wrong product in box,Drug D,Logistics Error
+352,Received wrong product in box,Drug F,Logistics Error
+353,Overdose packaging,Drug D,Wrong Dosage
+354,Product expired last month,Drug C,Expired Product
+355,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+356,Felt no relief even after full course,Drug F,Lack of Efficacy
+357,Product expired last month,Drug C,Expired Product
+358,Treatment ineffective,Drug E,Lack of Efficacy
+359,Pill smelled unusual,Drug D,Contamination Suspected
+360,Tablet missing from strip,Drug A,Packaging Defect
+361,Label was unreadable,Drug B,Packaging Defect
+362,Tablet had black spots,Drug C,Contamination Suspected
+363,No improvement after 5 days of use,Drug D,Lack of Efficacy
+364,Shipment was delayed by 5 days,Drug C,Logistics Error
+365,Security seal missing,Drug E,Tampered Seal
+366,Got duplicate shipment,Drug A,Logistics Error
+367,Bottle seal appeared tampered,Drug B,Tampered Seal
+368,Experienced severe headache after taking the drug,Drug F,Adverse Event
+369,Packaging was damaged on arrival,Drug B,Packaging Defect
+370,Received wrong product in box,Drug E,Logistics Error
+371,Dosage label incorrect,Drug B,Wrong Dosage
+372,Product expired last month,Drug E,Expired Product
+373,Liquid was discolored,Drug C,Contamination Suspected
+374,Label was unreadable,Drug B,Packaging Defect
+375,Dosage strength was different than prescribed,Drug C,Wrong Dosage
+376,Tablet missing from strip,Drug B,Packaging Defect
+377,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+378,Found foreign particle in syrup,Drug A,Contamination Suspected
+379,Received wrong product in box,Drug A,Logistics Error
+380,Packaging was damaged on arrival,Drug C,Packaging Defect
+381,Developed rash and itching,Drug E,Adverse Event
+382,Shipment was delayed by 5 days,Drug C,Logistics Error
+383,Liquid was discolored,Drug C,Contamination Suspected
+384,Treatment ineffective,Drug C,Lack of Efficacy
+385,Treatment ineffective,Drug F,Lack of Efficacy
+386,Product expired last month,Drug E,Expired Product
+387,Treatment ineffective,Drug E,Lack of Efficacy
+388,Packaging was damaged on arrival,Drug C,Packaging Defect
+389,No improvement after 5 days of use,Drug F,Lack of Efficacy
+390,Seal was broken before opening,Drug E,Tampered Seal
+391,Bottle seal appeared tampered,Drug B,Tampered Seal
+392,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+393,Box had a resealed flap,Drug C,Tampered Seal
+394,Expired medicine delivered,Drug D,Expired Product
+395,Label was unreadable,Drug C,Packaging Defect
+396,Label was unreadable,Drug A,Packaging Defect
+397,Expired medicine delivered,Drug D,Expired Product
+398,Felt no relief even after full course,Drug C,Lack of Efficacy
+399,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+400,Packaging was damaged on arrival,Drug B,Packaging Defect
+401,Expired medicine delivered,Drug B,Expired Product
+402,Packaging was damaged on arrival,Drug B,Packaging Defect
+403,Box had a resealed flap,Drug C,Tampered Seal
+404,Bottle seal appeared tampered,Drug F,Tampered Seal
+405,Box was empty upon delivery,Drug D,Logistics Error
+406,Felt no relief even after full course,Drug D,Lack of Efficacy
+407,Experienced severe headache after taking the drug,Drug A,Adverse Event
+408,Found foreign particle in syrup,Drug B,Contamination Suspected
+409,No improvement after 5 days of use,Drug A,Lack of Efficacy
+410,Expired medicine delivered,Drug B,Expired Product
+411,Seal was broken before opening,Drug F,Tampered Seal
+412,Shipment was delayed by 5 days,Drug E,Logistics Error
+413,Packaging was damaged on arrival,Drug C,Packaging Defect
+414,Found foreign particle in syrup,Drug D,Contamination Suspected
+415,Received product past expiry date,Drug A,Expired Product
+416,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+417,Tablet missing from strip,Drug D,Packaging Defect
+418,Received wrong product in box,Drug B,Logistics Error
+419,Packaging was damaged on arrival,Drug D,Packaging Defect
+420,Dosage label incorrect,Drug B,Wrong Dosage
+421,Bottle seal appeared tampered,Drug D,Tampered Seal
+422,Got duplicate shipment,Drug E,Logistics Error
+423,Blister pack was torn before opening,Drug D,Packaging Defect
+424,Box had a resealed flap,Drug A,Tampered Seal
+425,Seal was broken before opening,Drug D,Tampered Seal
+426,No improvement after 5 days of use,Drug E,Lack of Efficacy
+427,Vomited within 1 hour of dosage,Drug B,Adverse Event
+428,Blister pack was torn before opening,Drug B,Packaging Defect
+429,Shipment was delayed by 5 days,Drug B,Logistics Error
+430,Expired medicine delivered,Drug B,Expired Product
+431,Received product past expiry date,Drug E,Expired Product
+432,Product expired last month,Drug D,Expired Product
+433,Dosage strength was different than prescribed,Drug B,Wrong Dosage
+434,Bottle seal appeared tampered,Drug C,Tampered Seal
+435,Dosage strength was different than prescribed,Drug F,Wrong Dosage
+436,Vomited within 1 hour of dosage,Drug F,Adverse Event
+437,Product expired last month,Drug D,Expired Product
+438,Felt no relief even after full course,Drug C,Lack of Efficacy
+439,Received product past expiry date,Drug D,Expired Product
+440,Expiry date was scratched off,Drug A,Expired Product
+441,Box was empty upon delivery,Drug F,Logistics Error
+442,Bottle seal appeared tampered,Drug C,Tampered Seal
+443,Developed rash and itching,Drug B,Adverse Event
+444,Box was empty upon delivery,Drug C,Logistics Error
+445,Developed rash and itching,Drug F,Adverse Event
+446,Treatment ineffective,Drug C,Lack of Efficacy
+447,Overdose packaging,Drug C,Wrong Dosage
+448,Tablet had black spots,Drug F,Contamination Suspected
+449,Got duplicate shipment,Drug D,Logistics Error
+450,Product expired last month,Drug C,Expired Product
+451,Expiry date was scratched off,Drug C,Expired Product
+452,Tablet missing from strip,Drug A,Packaging Defect
+453,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+454,Security seal missing,Drug F,Tampered Seal
+455,Felt nauseous and dizzy after second dose,Drug E,Adverse Event
+456,No improvement after 5 days of use,Drug C,Lack of Efficacy
+457,Expired medicine delivered,Drug E,Expired Product
+458,Felt no relief even after full course,Drug D,Lack of Efficacy
+459,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+460,Experienced severe headache after taking the drug,Drug E,Adverse Event
+461,Developed rash and itching,Drug B,Adverse Event
+462,Label was unreadable,Drug C,Packaging Defect
+463,Box was empty upon delivery,Drug F,Logistics Error
+464,Treatment ineffective,Drug E,Lack of Efficacy
+465,Expired medicine delivered,Drug B,Expired Product
+466,Box was empty upon delivery,Drug C,Logistics Error
+467,Overdose packaging,Drug A,Wrong Dosage
+468,Bottle seal appeared tampered,Drug D,Tampered Seal
+469,Liquid was discolored,Drug C,Contamination Suspected
+470,Seal was broken before opening,Drug E,Tampered Seal
+471,Blister pack was torn before opening,Drug E,Packaging Defect
+472,Got duplicate shipment,Drug C,Logistics Error
+473,Blister pack was torn before opening,Drug C,Packaging Defect
+474,Label was unreadable,Drug C,Packaging Defect
+475,Treatment ineffective,Drug B,Lack of Efficacy
+476,Vomited within 1 hour of dosage,Drug B,Adverse Event
+477,Dosage label incorrect,Drug F,Wrong Dosage
+478,Bottle seal appeared tampered,Drug D,Tampered Seal
+479,Shipment was delayed by 5 days,Drug C,Logistics Error
+480,Shipment was delayed by 5 days,Drug E,Logistics Error
+481,No improvement after 5 days of use,Drug E,Lack of Efficacy
+482,Developed rash and itching,Drug B,Adverse Event
+483,Treatment ineffective,Drug A,Lack of Efficacy
+484,Packaging was damaged on arrival,Drug D,Packaging Defect
+485,Security seal missing,Drug B,Tampered Seal
+486,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+487,Shipment was delayed by 5 days,Drug D,Logistics Error
+488,Packaging was damaged on arrival,Drug F,Packaging Defect
+489,Treatment ineffective,Drug D,Lack of Efficacy
+490,Found foreign particle in syrup,Drug C,Contamination Suspected
+491,Expiry date was scratched off,Drug D,Expired Product
+492,Dosage label incorrect,Drug B,Wrong Dosage
+493,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+494,Dosage strength was different than prescribed,Drug B,Wrong Dosage
+495,Bottle seal appeared tampered,Drug D,Tampered Seal
+496,Product expired last month,Drug E,Expired Product
+497,Dosage label incorrect,Drug C,Wrong Dosage
+498,Blister pack was torn before opening,Drug D,Packaging Defect
+499,Box had a resealed flap,Drug E,Tampered Seal
+500,Found foreign particle in syrup,Drug C,Contamination Suspected
+501,Dosage label incorrect,Drug B,Wrong Dosage
+502,Seal was broken before opening,Drug C,Tampered Seal
+503,Received wrong product in box,Drug B,Logistics Error
+504,Experienced severe headache after taking the drug,Drug D,Adverse Event
+505,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+506,Security seal missing,Drug A,Tampered Seal
+507,Label was unreadable,Drug A,Packaging Defect
+508,Pill smelled unusual,Drug A,Contamination Suspected
+509,Developed rash and itching,Drug B,Adverse Event
+510,Bottle seal appeared tampered,Drug A,Tampered Seal
+511,Vomited within 1 hour of dosage,Drug E,Adverse Event
+512,Got duplicate shipment,Drug F,Logistics Error
+513,Tablet had black spots,Drug C,Contamination Suspected
+514,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+515,Overdose packaging,Drug C,Wrong Dosage
+516,Liquid was discolored,Drug D,Contamination Suspected
+517,Product expired last month,Drug F,Expired Product
+518,Product expired last month,Drug B,Expired Product
+519,Label was unreadable,Drug A,Packaging Defect
+520,Dosage label incorrect,Drug D,Wrong Dosage
+521,Received wrong product in box,Drug F,Logistics Error
+522,Bottle seal appeared tampered,Drug C,Tampered Seal
+523,Bottle seal appeared tampered,Drug D,Tampered Seal
+524,Felt nauseous and dizzy after second dose,Drug A,Adverse Event
+525,Overdose packaging,Drug D,Wrong Dosage
+526,Tablet missing from strip,Drug F,Packaging Defect
+527,Tablet had black spots,Drug E,Contamination Suspected
+528,Received product past expiry date,Drug F,Expired Product
+529,Symptoms persisted despite taking medicine,Drug C,Lack of Efficacy
+530,Dosage label incorrect,Drug C,Wrong Dosage
+531,Box had a resealed flap,Drug E,Tampered Seal
+532,Tablet had black spots,Drug C,Contamination Suspected
+533,Product expired last month,Drug F,Expired Product
+534,Box had a resealed flap,Drug C,Tampered Seal
+535,Packaging was damaged on arrival,Drug C,Packaging Defect
+536,Experienced severe headache after taking the drug,Drug E,Adverse Event
+537,Experienced severe headache after taking the drug,Drug E,Adverse Event
+538,Felt no relief even after full course,Drug D,Lack of Efficacy
+539,Box had a resealed flap,Drug D,Tampered Seal
+540,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+541,Vomited within 1 hour of dosage,Drug A,Adverse Event
+542,Received product past expiry date,Drug A,Expired Product
+543,Tablet missing from strip,Drug D,Packaging Defect
+544,Liquid was discolored,Drug D,Contamination Suspected
+545,Label was unreadable,Drug D,Packaging Defect
+546,Dosage strength was different than prescribed,Drug D,Wrong Dosage
+547,Developed rash and itching,Drug A,Adverse Event
+548,Label was unreadable,Drug D,Packaging Defect
+549,Product expired last month,Drug F,Expired Product
+550,Seal was broken before opening,Drug C,Tampered Seal
+551,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+552,Overdose packaging,Drug A,Wrong Dosage
+553,Pill smelled unusual,Drug F,Contamination Suspected
+554,Expiry date was scratched off,Drug E,Expired Product
+555,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+556,Box was empty upon delivery,Drug A,Logistics Error
+557,Bottle seal appeared tampered,Drug B,Tampered Seal
+558,Tablet missing from strip,Drug C,Packaging Defect
+559,Found foreign particle in syrup,Drug D,Contamination Suspected
+560,Received wrong product in box,Drug C,Logistics Error
+561,Symptoms persisted despite taking medicine,Drug C,Lack of Efficacy
+562,Bottle seal appeared tampered,Drug E,Tampered Seal
+563,Shipment was delayed by 5 days,Drug D,Logistics Error
+564,Got duplicate shipment,Drug F,Logistics Error
+565,Seal was broken before opening,Drug F,Tampered Seal
+566,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+567,Expiry date was scratched off,Drug C,Expired Product
+568,Packaging was damaged on arrival,Drug F,Packaging Defect
+569,Label was unreadable,Drug B,Packaging Defect
+570,Dosage label incorrect,Drug F,Wrong Dosage
+571,Dosage label incorrect,Drug E,Wrong Dosage
+572,Treatment ineffective,Drug C,Lack of Efficacy
+573,Box had a resealed flap,Drug E,Tampered Seal
+574,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+575,Product expired last month,Drug B,Expired Product
+576,Box was empty upon delivery,Drug E,Logistics Error
+577,Overdose packaging,Drug F,Wrong Dosage
+578,Pill smelled unusual,Drug E,Contamination Suspected
+579,Developed rash and itching,Drug C,Adverse Event
+580,Expired medicine delivered,Drug C,Expired Product
+581,Security seal missing,Drug B,Tampered Seal
+582,Label was unreadable,Drug F,Packaging Defect
+583,Received product past expiry date,Drug C,Expired Product
+584,Product expired last month,Drug E,Expired Product
+585,Pill smelled unusual,Drug B,Contamination Suspected
+586,Shipment was delayed by 5 days,Drug F,Logistics Error
+587,Packaging was damaged on arrival,Drug C,Packaging Defect
+588,Felt nauseous and dizzy after second dose,Drug F,Adverse Event
+589,Felt no relief even after full course,Drug D,Lack of Efficacy
+590,No improvement after 5 days of use,Drug D,Lack of Efficacy
+591,Received product past expiry date,Drug A,Expired Product
+592,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+593,Box was empty upon delivery,Drug F,Logistics Error
+594,Pill smelled unusual,Drug C,Contamination Suspected
+595,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+596,Got duplicate shipment,Drug C,Logistics Error
+597,Expiry date was scratched off,Drug F,Expired Product
+598,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+599,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+600,Label was unreadable,Drug A,Packaging Defect
+601,Felt nauseous and dizzy after second dose,Drug D,Adverse Event
+602,Label was unreadable,Drug B,Packaging Defect
+603,Box had a resealed flap,Drug B,Tampered Seal
+604,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+605,Bottle seal appeared tampered,Drug C,Tampered Seal
+606,Felt no relief even after full course,Drug E,Lack of Efficacy
+607,Box was empty upon delivery,Drug B,Logistics Error
+608,Felt nauseous and dizzy after second dose,Drug B,Adverse Event
+609,Box had a resealed flap,Drug D,Tampered Seal
+610,Tablet had black spots,Drug B,Contamination Suspected
+611,Found foreign particle in syrup,Drug A,Contamination Suspected
+612,Seal was broken before opening,Drug B,Tampered Seal
+613,Pill smelled unusual,Drug A,Contamination Suspected
+614,Seal was broken before opening,Drug D,Tampered Seal
+615,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+616,Experienced severe headache after taking the drug,Drug B,Adverse Event
+617,Liquid was discolored,Drug C,Contamination Suspected
+618,Dosage label incorrect,Drug D,Wrong Dosage
+619,Shipment was delayed by 5 days,Drug F,Logistics Error
+620,Experienced severe headache after taking the drug,Drug A,Adverse Event
+621,Received product past expiry date,Drug D,Expired Product
+622,Packaging was damaged on arrival,Drug F,Packaging Defect
+623,Label was unreadable,Drug A,Packaging Defect
+624,Got duplicate shipment,Drug F,Logistics Error
+625,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+626,Product expired last month,Drug E,Expired Product
+627,Dosage strength was different than prescribed,Drug C,Wrong Dosage
+628,Tablet had black spots,Drug A,Contamination Suspected
+629,Dosage label incorrect,Drug A,Wrong Dosage
+630,Seal was broken before opening,Drug C,Tampered Seal
+631,Experienced severe headache after taking the drug,Drug A,Adverse Event
+632,Tablet had black spots,Drug F,Contamination Suspected
+633,Label was unreadable,Drug E,Packaging Defect
+634,Security seal missing,Drug B,Tampered Seal
+635,Product expired last month,Drug B,Expired Product
+636,Expired medicine delivered,Drug F,Expired Product
+637,Security seal missing,Drug E,Tampered Seal
+638,No improvement after 5 days of use,Drug B,Lack of Efficacy
+639,Seal was broken before opening,Drug F,Tampered Seal
+640,Bottle seal appeared tampered,Drug C,Tampered Seal
+641,Tablet had black spots,Drug D,Contamination Suspected
+642,Blister pack was torn before opening,Drug E,Packaging Defect
+643,Liquid was discolored,Drug E,Contamination Suspected
+644,Pill smelled unusual,Drug C,Contamination Suspected
+645,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+646,Received product past expiry date,Drug E,Expired Product
+647,Developed rash and itching,Drug F,Adverse Event
+648,Dosage label incorrect,Drug C,Wrong Dosage
+649,Dosage label incorrect,Drug D,Wrong Dosage
+650,Blister pack was torn before opening,Drug C,Packaging Defect
+651,Treatment ineffective,Drug A,Lack of Efficacy
+652,Seal was broken before opening,Drug E,Tampered Seal
+653,Vomited within 1 hour of dosage,Drug F,Adverse Event
+654,Blister pack was torn before opening,Drug E,Packaging Defect
+655,Tablet had black spots,Drug B,Contamination Suspected
+656,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+657,Experienced severe headache after taking the drug,Drug A,Adverse Event
+658,No improvement after 5 days of use,Drug E,Lack of Efficacy
+659,Vomited within 1 hour of dosage,Drug E,Adverse Event
+660,Received wrong product in box,Drug D,Logistics Error
+661,Box was empty upon delivery,Drug E,Logistics Error
+662,Vomited within 1 hour of dosage,Drug E,Adverse Event
+663,Bottle seal appeared tampered,Drug E,Tampered Seal
+664,Box was empty upon delivery,Drug E,Logistics Error
+665,Liquid was discolored,Drug B,Contamination Suspected
+666,Treatment ineffective,Drug A,Lack of Efficacy
+667,Experienced severe headache after taking the drug,Drug F,Adverse Event
+668,Vomited within 1 hour of dosage,Drug A,Adverse Event
+669,Tablet missing from strip,Drug B,Packaging Defect
+670,Tablet had black spots,Drug D,Contamination Suspected
+671,Dosage label incorrect,Drug A,Wrong Dosage
+672,Overdose packaging,Drug C,Wrong Dosage
+673,Blister pack was torn before opening,Drug F,Packaging Defect
+674,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+675,Dosage strength was different than prescribed,Drug C,Wrong Dosage
+676,Symptoms persisted despite taking medicine,Drug A,Lack of Efficacy
+677,Seal was broken before opening,Drug C,Tampered Seal
+678,Found foreign particle in syrup,Drug A,Contamination Suspected
+679,Label was unreadable,Drug F,Packaging Defect
+680,Expired medicine delivered,Drug D,Expired Product
+681,Received product past expiry date,Drug B,Expired Product
+682,No improvement after 5 days of use,Drug D,Lack of Efficacy
+683,Dosage label incorrect,Drug A,Wrong Dosage
+684,Vomited within 1 hour of dosage,Drug C,Adverse Event
+685,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+686,Pill smelled unusual,Drug A,Contamination Suspected
+687,Received wrong product in box,Drug A,Logistics Error
+688,Bottle seal appeared tampered,Drug F,Tampered Seal
+689,Tablet missing from strip,Drug E,Packaging Defect
+690,Got duplicate shipment,Drug D,Logistics Error
+691,Overdose packaging,Drug B,Wrong Dosage
+692,Tablet had black spots,Drug B,Contamination Suspected
+693,Felt nauseous and dizzy after second dose,Drug A,Adverse Event
+694,Treatment ineffective,Drug D,Lack of Efficacy
+695,Experienced severe headache after taking the drug,Drug E,Adverse Event
+696,Dosage label incorrect,Drug D,Wrong Dosage
+697,Received product past expiry date,Drug A,Expired Product
+698,Expired medicine delivered,Drug F,Expired Product
+699,Got duplicate shipment,Drug D,Logistics Error
+700,Vomited within 1 hour of dosage,Drug C,Adverse Event
+701,Experienced severe headache after taking the drug,Drug A,Adverse Event
+702,Pill smelled unusual,Drug C,Contamination Suspected
+703,Got duplicate shipment,Drug F,Logistics Error
+704,Expired medicine delivered,Drug F,Expired Product
+705,Received product past expiry date,Drug C,Expired Product
+706,Liquid was discolored,Drug C,Contamination Suspected
+707,Seal was broken before opening,Drug C,Tampered Seal
+708,Seal was broken before opening,Drug F,Tampered Seal
+709,Symptoms persisted despite taking medicine,Drug E,Lack of Efficacy
+710,Tablet missing from strip,Drug B,Packaging Defect
+711,Bottle seal appeared tampered,Drug F,Tampered Seal
+712,No improvement after 5 days of use,Drug E,Lack of Efficacy
+713,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+714,Seal was broken before opening,Drug C,Tampered Seal
+715,Felt no relief even after full course,Drug C,Lack of Efficacy
+716,Box was empty upon delivery,Drug E,Logistics Error
+717,Tablet missing from strip,Drug A,Packaging Defect
+718,Product expired last month,Drug D,Expired Product
+719,Dosage strength was different than prescribed,Drug D,Wrong Dosage
+720,Overdose packaging,Drug C,Wrong Dosage
+721,Tablet had black spots,Drug E,Contamination Suspected
+722,Liquid was discolored,Drug C,Contamination Suspected
+723,Felt no relief even after full course,Drug A,Lack of Efficacy
+724,Vomited within 1 hour of dosage,Drug F,Adverse Event
+725,Bottle seal appeared tampered,Drug A,Tampered Seal
+726,Security seal missing,Drug A,Tampered Seal
+727,No improvement after 5 days of use,Drug D,Lack of Efficacy
+728,Vomited within 1 hour of dosage,Drug C,Adverse Event
+729,Packaging was damaged on arrival,Drug A,Packaging Defect
+730,Vomited within 1 hour of dosage,Drug E,Adverse Event
+731,Pill smelled unusual,Drug D,Contamination Suspected
+732,Overdose packaging,Drug B,Wrong Dosage
+733,Experienced severe headache after taking the drug,Drug E,Adverse Event
+734,Experienced severe headache after taking the drug,Drug F,Adverse Event
+735,Dosage strength was different than prescribed,Drug A,Wrong Dosage
+736,Security seal missing,Drug A,Tampered Seal
+737,Shipment was delayed by 5 days,Drug D,Logistics Error
+738,Received product past expiry date,Drug B,Expired Product
+739,Found foreign particle in syrup,Drug D,Contamination Suspected
+740,Box was empty upon delivery,Drug F,Logistics Error
+741,Liquid was discolored,Drug E,Contamination Suspected
+742,Bottle seal appeared tampered,Drug B,Tampered Seal
+743,Liquid was discolored,Drug A,Contamination Suspected
+744,Expired medicine delivered,Drug A,Expired Product
+745,Bottle seal appeared tampered,Drug D,Tampered Seal
+746,Developed rash and itching,Drug C,Adverse Event
+747,Treatment ineffective,Drug B,Lack of Efficacy
+748,Pill smelled unusual,Drug D,Contamination Suspected
+749,No improvement after 5 days of use,Drug D,Lack of Efficacy
+750,Experienced severe headache after taking the drug,Drug F,Adverse Event
+751,Found foreign particle in syrup,Drug B,Contamination Suspected
+752,No improvement after 5 days of use,Drug A,Lack of Efficacy
+753,Box was empty upon delivery,Drug D,Logistics Error
+754,Blister pack was torn before opening,Drug B,Packaging Defect
+755,Experienced severe headache after taking the drug,Drug B,Adverse Event
+756,Seal was broken before opening,Drug C,Tampered Seal
+757,Seal was broken before opening,Drug E,Tampered Seal
+758,Dosage label incorrect,Drug B,Wrong Dosage
+759,Pill smelled unusual,Drug D,Contamination Suspected
+760,Shipment was delayed by 5 days,Drug F,Logistics Error
+761,Security seal missing,Drug C,Tampered Seal
+762,Received wrong product in box,Drug B,Logistics Error
+763,Developed rash and itching,Drug D,Adverse Event
+764,Blister pack was torn before opening,Drug B,Packaging Defect
+765,Received product past expiry date,Drug E,Expired Product
+766,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+767,Received product past expiry date,Drug E,Expired Product
+768,Dosage strength was different than prescribed,Drug D,Wrong Dosage
+769,Experienced severe headache after taking the drug,Drug E,Adverse Event
+770,Liquid was discolored,Drug A,Contamination Suspected
+771,Box had a resealed flap,Drug A,Tampered Seal
+772,Box was empty upon delivery,Drug A,Logistics Error
+773,Packaging was damaged on arrival,Drug A,Packaging Defect
+774,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+775,Expiry date was scratched off,Drug E,Expired Product
+776,Box had a resealed flap,Drug F,Tampered Seal
+777,Bottle seal appeared tampered,Drug E,Tampered Seal
+778,Experienced severe headache after taking the drug,Drug D,Adverse Event
+779,Liquid was discolored,Drug D,Contamination Suspected
+780,Tablet missing from strip,Drug A,Packaging Defect
+781,Security seal missing,Drug A,Tampered Seal
+782,Liquid was discolored,Drug E,Contamination Suspected
+783,Box had a resealed flap,Drug D,Tampered Seal
+784,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+785,Shipment was delayed by 5 days,Drug F,Logistics Error
+786,Product expired last month,Drug E,Expired Product
+787,Expiry date was scratched off,Drug E,Expired Product
+788,Bottle seal appeared tampered,Drug B,Tampered Seal
+789,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+790,Label was unreadable,Drug C,Packaging Defect
+791,Tablet missing from strip,Drug C,Packaging Defect
+792,Found foreign particle in syrup,Drug B,Contamination Suspected
+793,Product expired last month,Drug F,Expired Product
+794,Blister pack was torn before opening,Drug B,Packaging Defect
+795,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+796,Tablet had black spots,Drug B,Contamination Suspected
+797,Overdose packaging,Drug B,Wrong Dosage
+798,Box was empty upon delivery,Drug D,Logistics Error
+799,Received wrong product in box,Drug C,Logistics Error
+800,Dosage strength was different than prescribed,Drug F,Wrong Dosage
+801,Tablet missing from strip,Drug A,Packaging Defect
+802,Got duplicate shipment,Drug E,Logistics Error
+803,Found foreign particle in syrup,Drug E,Contamination Suspected
+804,Felt nauseous and dizzy after second dose,Drug D,Adverse Event
+805,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+806,Felt no relief even after full course,Drug E,Lack of Efficacy
+807,Tablet missing from strip,Drug D,Packaging Defect
+808,Dosage label incorrect,Drug D,Wrong Dosage
+809,Experienced severe headache after taking the drug,Drug E,Adverse Event
+810,Received product past expiry date,Drug D,Expired Product
+811,Expired medicine delivered,Drug E,Expired Product
+812,Received product past expiry date,Drug A,Expired Product
+813,Expiry date was scratched off,Drug E,Expired Product
+814,Experienced severe headache after taking the drug,Drug C,Adverse Event
+815,Security seal missing,Drug E,Tampered Seal
+816,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+817,Security seal missing,Drug C,Tampered Seal
+818,No improvement after 5 days of use,Drug F,Lack of Efficacy
+819,Pill smelled unusual,Drug F,Contamination Suspected
+820,Box was empty upon delivery,Drug A,Logistics Error
+821,Felt nauseous and dizzy after second dose,Drug A,Adverse Event
+822,Felt no relief even after full course,Drug F,Lack of Efficacy
+823,Symptoms persisted despite taking medicine,Drug C,Lack of Efficacy
+824,Seal was broken before opening,Drug C,Tampered Seal
+825,Developed rash and itching,Drug D,Adverse Event
+826,Pill smelled unusual,Drug E,Contamination Suspected
+827,Packaging was damaged on arrival,Drug A,Packaging Defect
+828,Tablet had black spots,Drug C,Contamination Suspected
+829,Shipment was delayed by 5 days,Drug C,Logistics Error
+830,Product expired last month,Drug F,Expired Product
+831,Box was empty upon delivery,Drug C,Logistics Error
+832,Shipment was delayed by 5 days,Drug B,Logistics Error
+833,Liquid was discolored,Drug D,Contamination Suspected
+834,Seal was broken before opening,Drug D,Tampered Seal
+835,Symptoms persisted despite taking medicine,Drug D,Lack of Efficacy
+836,Label was unreadable,Drug A,Packaging Defect
+837,Tablet had black spots,Drug D,Contamination Suspected
+838,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+839,Box was empty upon delivery,Drug F,Logistics Error
+840,Pill smelled unusual,Drug D,Contamination Suspected
+841,Shipment was delayed by 5 days,Drug D,Logistics Error
+842,Expired medicine delivered,Drug E,Expired Product
+843,Tablet missing from strip,Drug D,Packaging Defect
+844,Expired medicine delivered,Drug D,Expired Product
+845,Received wrong product in box,Drug A,Logistics Error
+846,Product expired last month,Drug D,Expired Product
+847,Experienced severe headache after taking the drug,Drug C,Adverse Event
+848,Expired medicine delivered,Drug B,Expired Product
+849,Tablet missing from strip,Drug A,Packaging Defect
+850,Box was empty upon delivery,Drug A,Logistics Error
+851,Vomited within 1 hour of dosage,Drug F,Adverse Event
+852,Product expired last month,Drug D,Expired Product
+853,Dosage strength was different than prescribed,Drug B,Wrong Dosage
+854,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+855,Blister pack was torn before opening,Drug A,Packaging Defect
+856,Security seal missing,Drug F,Tampered Seal
+857,Got duplicate shipment,Drug C,Logistics Error
+858,Received wrong product in box,Drug D,Logistics Error
+859,Security seal missing,Drug A,Tampered Seal
+860,Experienced severe headache after taking the drug,Drug F,Adverse Event
+861,Security seal missing,Drug C,Tampered Seal
+862,Packaging was damaged on arrival,Drug A,Packaging Defect
+863,Tablet missing from strip,Drug D,Packaging Defect
+864,Dosage label incorrect,Drug E,Wrong Dosage
+865,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+866,Tablet missing from strip,Drug F,Packaging Defect
+867,Developed rash and itching,Drug E,Adverse Event
+868,Bottle seal appeared tampered,Drug B,Tampered Seal
+869,Product expired last month,Drug A,Expired Product
+870,Received wrong product in box,Drug D,Logistics Error
+871,Product expired last month,Drug E,Expired Product
+872,No improvement after 5 days of use,Drug E,Lack of Efficacy
+873,Developed rash and itching,Drug E,Adverse Event
+874,Tablet missing from strip,Drug F,Packaging Defect
+875,Felt nauseous and dizzy after second dose,Drug F,Adverse Event
+876,Received 100mg instead of 50mg,Drug E,Wrong Dosage
+877,Vomited within 1 hour of dosage,Drug A,Adverse Event
+878,Felt nauseous and dizzy after second dose,Drug C,Adverse Event
+879,Product expired last month,Drug C,Expired Product
+880,Treatment ineffective,Drug D,Lack of Efficacy
+881,Tablet missing from strip,Drug E,Packaging Defect
+882,Seal was broken before opening,Drug B,Tampered Seal
+883,Received product past expiry date,Drug F,Expired Product
+884,Experienced severe headache after taking the drug,Drug E,Adverse Event
+885,Got duplicate shipment,Drug A,Logistics Error
+886,Found foreign particle in syrup,Drug F,Contamination Suspected
+887,Received wrong product in box,Drug B,Logistics Error
+888,Expired medicine delivered,Drug D,Expired Product
+889,Product expired last month,Drug B,Expired Product
+890,Overdose packaging,Drug C,Wrong Dosage
+891,Vomited within 1 hour of dosage,Drug B,Adverse Event
+892,Label was unreadable,Drug F,Packaging Defect
+893,Received 100mg instead of 50mg,Drug C,Wrong Dosage
+894,Found foreign particle in syrup,Drug F,Contamination Suspected
+895,Overdose packaging,Drug A,Wrong Dosage
+896,Blister pack was torn before opening,Drug C,Packaging Defect
+897,Packaging was damaged on arrival,Drug A,Packaging Defect
+898,Shipment was delayed by 5 days,Drug B,Logistics Error
+899,Overdose packaging,Drug A,Wrong Dosage
+900,Treatment ineffective,Drug B,Lack of Efficacy
+901,Vomited within 1 hour of dosage,Drug F,Adverse Event
+902,Found foreign particle in syrup,Drug B,Contamination Suspected
+903,Found foreign particle in syrup,Drug C,Contamination Suspected
+904,Symptoms persisted despite taking medicine,Drug E,Lack of Efficacy
+905,Product expired last month,Drug C,Expired Product
+906,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+907,Expiry date was scratched off,Drug B,Expired Product
+908,Product expired last month,Drug D,Expired Product
+909,Dosage label incorrect,Drug E,Wrong Dosage
+910,Liquid was discolored,Drug E,Contamination Suspected
+911,Dosage strength was different than prescribed,Drug E,Wrong Dosage
+912,Experienced severe headache after taking the drug,Drug F,Adverse Event
+913,Dosage label incorrect,Drug C,Wrong Dosage
+914,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+915,Treatment ineffective,Drug E,Lack of Efficacy
+916,Label was unreadable,Drug D,Packaging Defect
+917,Tablet had black spots,Drug A,Contamination Suspected
+918,Seal was broken before opening,Drug B,Tampered Seal
+919,Pill smelled unusual,Drug A,Contamination Suspected
+920,Received 100mg instead of 50mg,Drug B,Wrong Dosage
+921,Expiry date was scratched off,Drug F,Expired Product
+922,Felt no relief even after full course,Drug B,Lack of Efficacy
+923,Label was unreadable,Drug F,Packaging Defect
+924,Blister pack was torn before opening,Drug E,Packaging Defect
+925,Overdose packaging,Drug E,Wrong Dosage
+926,Pill smelled unusual,Drug F,Contamination Suspected
+927,Treatment ineffective,Drug F,Lack of Efficacy
+928,Felt no relief even after full course,Drug C,Lack of Efficacy
+929,Tablet had black spots,Drug E,Contamination Suspected
+930,Label was unreadable,Drug B,Packaging Defect
+931,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+932,Felt nauseous and dizzy after second dose,Drug E,Adverse Event
+933,Box had a resealed flap,Drug A,Tampered Seal
+934,Security seal missing,Drug D,Tampered Seal
+935,Received product past expiry date,Drug D,Expired Product
+936,No improvement after 5 days of use,Drug B,Lack of Efficacy
+937,Expiry date was scratched off,Drug B,Expired Product
+938,Label was unreadable,Drug D,Packaging Defect
+939,Seal was broken before opening,Drug E,Tampered Seal
+940,Product expired last month,Drug B,Expired Product
+941,No improvement after 5 days of use,Drug F,Lack of Efficacy
+942,Expiry date was scratched off,Drug B,Expired Product
+943,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+944,Dosage label incorrect,Drug C,Wrong Dosage
+945,Experienced severe headache after taking the drug,Drug F,Adverse Event
+946,Got duplicate shipment,Drug F,Logistics Error
+947,Box was empty upon delivery,Drug F,Logistics Error
+948,Received 100mg instead of 50mg,Drug A,Wrong Dosage
+949,Box was empty upon delivery,Drug E,Logistics Error
+950,Blister pack was torn before opening,Drug B,Packaging Defect
+951,Expiry date was scratched off,Drug B,Expired Product
+952,Security seal missing,Drug B,Tampered Seal
+953,Experienced severe headache after taking the drug,Drug F,Adverse Event
+954,Felt no relief even after full course,Drug F,Lack of Efficacy
+955,Experienced severe headache after taking the drug,Drug E,Adverse Event
+956,Label was unreadable,Drug E,Packaging Defect
+957,Product expired last month,Drug F,Expired Product
+958,Got duplicate shipment,Drug A,Logistics Error
+959,Symptoms persisted despite taking medicine,Drug B,Lack of Efficacy
+960,Liquid was discolored,Drug F,Contamination Suspected
+961,Found foreign particle in syrup,Drug C,Contamination Suspected
+962,Got duplicate shipment,Drug F,Logistics Error
+963,Received wrong product in box,Drug A,Logistics Error
+964,Product expired last month,Drug C,Expired Product
+965,Label was unreadable,Drug B,Packaging Defect
+966,Received 100mg instead of 50mg,Drug F,Wrong Dosage
+967,Tablet missing from strip,Drug B,Packaging Defect
+968,Received wrong product in box,Drug A,Logistics Error
+969,Found foreign particle in syrup,Drug A,Contamination Suspected
+970,Treatment ineffective,Drug A,Lack of Efficacy
+971,Label was unreadable,Drug C,Packaging Defect
+972,Blister pack was torn before opening,Drug E,Packaging Defect
+973,Dosage label incorrect,Drug D,Wrong Dosage
+974,Label was unreadable,Drug C,Packaging Defect
+975,Pill smelled unusual,Drug A,Contamination Suspected
+976,Pill smelled unusual,Drug E,Contamination Suspected
+977,Label was unreadable,Drug D,Packaging Defect
+978,Dosage label incorrect,Drug B,Wrong Dosage
+979,Developed rash and itching,Drug B,Adverse Event
+980,Security seal missing,Drug C,Tampered Seal
+981,Received 100mg instead of 50mg,Drug D,Wrong Dosage
+982,Seal was broken before opening,Drug D,Tampered Seal
+983,Bottle seal appeared tampered,Drug B,Tampered Seal
+984,Pill smelled unusual,Drug F,Contamination Suspected
+985,Received wrong product in box,Drug E,Logistics Error
+986,Experienced severe headache after taking the drug,Drug E,Adverse Event
+987,Blister pack was torn before opening,Drug B,Packaging Defect
+988,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+989,Box had a resealed flap,Drug D,Tampered Seal
+990,Overdose packaging,Drug E,Wrong Dosage
+991,Felt no relief even after full course,Drug A,Lack of Efficacy
+992,Product expired last month,Drug F,Expired Product
+993,Got duplicate shipment,Drug D,Logistics Error
+994,Symptoms persisted despite taking medicine,Drug F,Lack of Efficacy
+995,Developed rash and itching,Drug E,Adverse Event
+996,Box had a resealed flap,Drug A,Tampered Seal
+997,Experienced severe headache after taking the drug,Drug E,Adverse Event
+998,Dosage label incorrect,Drug F,Wrong Dosage
+999,Tablet had black spots,Drug D,Contamination Suspected
+1000,Received product past expiry date,Drug C,Expired Product
