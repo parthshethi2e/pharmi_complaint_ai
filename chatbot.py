@@ -24,7 +24,7 @@ creds_json = base64.b64decode(creds_b64).decode("utf-8")
 creds_dict = json.loads(creds_json)
 
 
-#CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
+# CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
 CREDS = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 gc = gspread.authorize(CREDS)
 worksheet = gc.open(SHEET_NAME).sheet1
@@ -143,6 +143,8 @@ if prompt := st.chat_input("Enter your complaint or ticket ID..."):
         
         
         category = classify_complaint(complaint)
+        category = category.split("\n")[0]
+        category = category.replace("**", "").strip()
         ticket_id = generate_ticket_id()
         date_str = datetime.now().strftime("%Y-%m-%d")
 
