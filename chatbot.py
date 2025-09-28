@@ -1,6 +1,6 @@
 import base64
 import streamlit as st
-from gemini_classifier import classify_complaint
+from gemini_classifier import classify_complaint, is_pharmacy_related
 import pandas as pd
 import re
 from datetime import datetime
@@ -24,7 +24,7 @@ creds_json = base64.b64decode(creds_b64).decode("utf-8")
 creds_dict = json.loads(creds_json)
 
 
-# CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
+#CREDS = Credentials.from_service_account_file("portfolioonetest-5d749f3c33db.json", scopes=SCOPES)
 CREDS = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 gc = gspread.authorize(CREDS)
 worksheet = gc.open(SHEET_NAME).sheet1
@@ -77,6 +77,8 @@ st.title("🤖 Pharma Complaint Chatbot")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
+    welcome_msg = "👋 Welcome! I’m your Pharma Complaint Assistant.\n\nYou can:\n- Raise a new complaint\n- Check complaint status using your Ticket ID\n\nPlease type your complaint to begin."
+    st.session_state.messages.append({"role": "assistant", "content": welcome_msg})
 if "pending_ticket" not in st.session_state:
     st.session_state.pending_ticket = None
 if "pending_medicine" not in st.session_state:
@@ -132,6 +134,14 @@ if prompt := st.chat_input("Enter your complaint or ticket ID..."):
     # Step 1: New complaint
     else:
         complaint = prompt.strip()
+
+        if not is_pharmacy_related(complaint):
+            reply = "⚠️ I can only handle **pharmacy-related complaints**. Please enter a valid complaint."
+            st.chat_message("assistant").write(reply)
+            st.session_state.messages.append({"role": "assistant", "content": reply})
+            st.stop()
+        
+        
         category = classify_complaint(complaint)
         ticket_id = generate_ticket_id()
         date_str = datetime.now().strftime("%Y-%m-%d")

@@ -25,3 +25,21 @@ Complaint: "{text}"
 Category:"""
     response = model.generate_content(prompt)
     return response.text.strip()
+
+def is_pharmacy_related(text: str) -> bool:
+    """
+    Uses Gemini to check if text is a pharmacy-related complaint.
+    Returns True if relevant, False otherwise.
+    """
+    prompt = f"""
+    Determine if the following text is a **pharmacy-related complaint** 
+    (examples: medicine defect, packaging issue, side effects, expired medicine, contamination, wrong dosage).
+    
+    Text: "{text}"
+    
+    Answer only YES or NO.
+    """
+    response = model.generate_content(prompt)
+    answer = response.text.strip().upper()
+    return "YES" in answer
+
